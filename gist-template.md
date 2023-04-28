@@ -41,7 +41,7 @@ public class HtmlTagMatcher {
 3. [Quantifiers](#quantifiers)
 4. [Grouping](#grouping)
 5. [OR](#or)
-6. [Escape/Classes](#character-escapes/classes)
+6. [Escape/Classes](#character-escape/classes)
     
 ## Anchors
 "^" marks a string that begins with the available characters that follow it. "$" marks a string that ends with the designated characters that precede it.
